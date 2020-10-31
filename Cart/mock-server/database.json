@@ -1,0 +1,677 @@
+{
+  "cartArr": [
+    {
+      "item": {
+        "id": "14",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7337396/2018/10/17/e11e6e2b-2ccf-4095-894a-78a8d1b1a77f1539776645542-Difference-of-Opinion-Men-Grey-Melange--Blue-Printed-Round-Neck-T-shirt-2201539776645366-1.jpg",
+        "cost": 600,
+        "size": "S",
+        "name": "T-shirts"
+      },
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "item": {
+        "id": 2,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81mZmcdrg4L._UL1500_.jpg",
+        "cost": "80",
+        "size": "Onesize",
+        "name": "Fastrack"
+      },
+      "quantity": 2,
+      "id": 2
+    },
+    {
+      "item": {
+        "id": 9,
+        "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2111141/2020/3/11/f9fe53fd-ad11-4fbc-a279-6151fec34ad21583926229788FossilTAILORWomenGoldAnalogueWatchES42642.jpg",
+        "cost": "500",
+        "size": "Onesize",
+        "name": "Fossil"
+      },
+      "id": 3
+    },
+    {
+      "item": {
+        "id": 3,
+        "img": "https://images.dsw.com/is/image/DSWShoes/466084_000_ss_01?$pdp-image-mobile$",
+        "cost": "180",
+        "size": "8",
+        "name": "Rebok"
+      },
+      "id": 5
+    },
+    {
+      "item": {
+        "id": "1",
+        "img": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "cost": 1099,
+        "size": "Onesize",
+        "name": "Handbags"
+      },
+      "id": 7,
+      "quantity": 1
+    },
+    {
+      "item": {
+        "id": "4",
+        "img": "https://img3.junaroad.com/uiproducts/17086390/pri_175_p-1591708434.jpg",
+        "cost": 400,
+        "size": "XS",
+        "name": "T-shirts"
+      },
+      "quantity": 2,
+      "id": 8
+    }
+  ],
+  "WishList": [],
+  "products": [
+    {
+      "title": "Clothing",
+      "link": "https://cdn.pixabay.com/photo/2016/04/19/13/39/store-1338629_960_720.jpg",
+      "array": [
+        "shirts",
+        "T-shirts",
+        "Bottoms",
+        "Shorts"
+      ],
+      "shirts": [
+        {
+          "id": "13",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/07/17/1594973237058160a8a50ff77c06bef2410c70522d_thumbnail_900x.webp",
+          "cost": 699
+        },
+        {
+          "id": "12",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/11/1597128916624ad4b25d66005c2d6894eb06003405_thumbnail_900x.webp",
+          "cost": 599
+        },
+        {
+          "id": "1",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/09/09/15996193659ee05c3105887b8913f35a81c286a0f2_thumbnail_900x.webp",
+          "cost": 799
+        },
+        {
+          "id": "2",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/05/159660402267fcaf26ce017be8568dbe124cd5c02b_thumbnail_900x.webp",
+          "cost": 750
+        },
+        {
+          "id": "3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT87QMhKB1jy7r1oHVohYCdYtndrY65NMG7NQ&usqp=CAU",
+          "cost": 500
+        },
+        {
+          "id": "4",
+          "img": "https://www.alexandra.co.uk/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/n/f/nf91_ol_model.jpg",
+          "cost": 550
+        },
+        {
+          "id": "5",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11523260/2020/2/29/d54d4d2c-d8ef-4476-8acc-4c8b23a106851582953391420-MsTaken-Women-Tops-3281582953390104-1.jpg",
+          "cost": 600
+        },
+        {
+          "id": "6",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12182048/2020/8/20/6b59b3de-df52-4b25-8d66-3756c2ba40131597908186896LeggingsMarksSpencerWomenLeggingsMarksSpencerWomenDressesMar1.jpg",
+          "cost": 400
+        },
+        {
+          "id": "7",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2371017/2019/1/29/eb400cc1-d29d-41b8-8ef0-6b7bd0472cef1548742853245-Kook-N-Keech-Women-Black-Regular-Fit-Printed-Casual-Shirt-11-1.jpg",
+          "cost": 590
+        },
+        {
+          "id": "8",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/17/a46f8bf0-9afd-4084-954b-f52bc9b291551545048273515-1.jpg",
+          "cost": 600
+        },
+        {
+          "id": "9",
+          "img": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPMESH-MEN-S-SKR-T228416A8FDF1EB/1562835826311_0..jpg?imwidth=320&impolicy=hq",
+          "cost": "100"
+        },
+        {
+          "id": "10",
+          "img": "https://5.imimg.com/data5/UC/TY/MY-9601095/100-25-cotton-fancy-casual-shirt-for-men-500x500.jpg",
+          "cost": "200"
+        },
+        {
+          "id": "11",
+          "img": "https://rukminim1.flixcart.com/image/714/857/k70spzk0/shirt/d/k/z/m-hlsh008832-highlander-original-imafpchqyyxgzfht.jpeg?q=50",
+          "cost": "300"
+        }
+      ],
+      "T-shirts": [
+        {
+          "id": "1",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8813231/2019/3/2/64098df0-e4fb-41ab-83f8-8b73f58f2b1b1551517511318-Moda-Rapido-Women-Green-Solid-Round-Neck-T-shirt-90615515175-1.jpg",
+          "cost": 300
+        },
+        {
+          "id": "2",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2439138/2019/4/2/500546d5-bf6f-4556-9056-c853cd8aaf5f1554207933635-Roadster-Women-Black-Solid-Round-Neck-T-shirt-77815542079319-1.jpg",
+          "cost": 500
+        },
+        {
+          "id": "3",
+          "img": "https://cdn.cliqueinc.com/posts/286799/best-graphic-tees-286799-1587100881530-square.700x0c.jpg",
+          "cost": 600
+        },
+        {
+          "id": "4",
+          "img": "https://img3.junaroad.com/uiproducts/17086390/pri_175_p-1591708434.jpg",
+          "cost": 400
+        },
+        {
+          "id": "5",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/9783305/2019/5/28/dfd0454c-6795-4cef-866a-180e8350e0671559036984773-SASSAFRAS-Women-Tops-5661559036983465-1.jpg",
+          "cost": 600
+        },
+        {
+          "id": "6",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2337274/2018/2/15/11518690362949-Mast--Harbour-Women-Red-Solid-Round-Neck-T-shirt-2931518690362789-1.jpg",
+          "cost": 550
+        },
+        {
+          "id": "7",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11893664/2020/7/14/54a546ff-8e11-4b29-b2e6-8ed4be970e3d1594711234881-Roadster-Women-Tshirts-971594711233285-1.jpg",
+          "cost": 650
+        },
+        {
+          "id": "8",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2414665/2020/9/11/461e8a1a-c74f-401d-a265-12d431a38cf71599804129735-Kook-N-Keech-Women-Black-Printed-T-shirt-721599804128664-1.jpg",
+          "cost": 400
+        },
+        {
+          "id": "9",
+          "img": "https://d30l99xc13l2t1.cloudfront.net/media/catalog/product/cache/976decdfe84d95eebed19ec7722ce0ad/M/8/M8524_102_1.JPG",
+          "cost": "150"
+        },
+        {
+          "id": "10",
+          "img": "https://dainese-cdn.thron.com/delivery/public/image/dainese/7b490a35-baa7-4f54-b929-7eb14c240dba/ramfdh/std/615x615/dainese-t-shirt.jpg",
+          "cost": "250"
+        },
+        {
+          "id": "11",
+          "img": "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/43497f8666af46da9cb4aa08011163f2_9366/Badge_of_Sport_Tee_Black_ED9605_21_model.jpg",
+          "cost": "350"
+        },
+        {
+          "id": "12",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7695755/2019/11/12/233b939e-7f4e-42e0-8775-a6f3bc6da0bf1573547355173-HRX-by-Hrithik-Roshan-Men-Black-Solid-Round-Neck-Full-Sleeve-1.jpg",
+          "cost": 400
+        },
+        {
+          "id": "13",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11077774/2019/12/24/29bdd2c8-3e2f-43aa-8ce5-55f3a501a4fa1577166621272-Difference-of-Opinion-Men-Sea-Green-Solid-Round-Neck-T-shirt-1.jpg",
+          "cost": 500
+        },
+        {
+          "id": "14",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7337396/2018/10/17/e11e6e2b-2ccf-4095-894a-78a8d1b1a77f1539776645542-Difference-of-Opinion-Men-Grey-Melange--Blue-Printed-Round-Neck-T-shirt-2201539776645366-1.jpg",
+          "cost": 600
+        },
+        {
+          "id": "15",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11012184/2020/6/15/7d5bc4b2-ddb9-412b-a269-c03cc9538d891592197302892-HRX-by-Hrithik-Roshan-Men-Tshirts-81592197301216-1.jpg",
+          "cost": 550
+        }
+      ],
+      "Bottoms": [
+        {
+          "id": "1",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/61O58llG6AL._AC_UX342_.jpg",
+          "cost": 800
+        },
+        {
+          "id": "2",
+          "img": "https://m.witchery.com.au/ProductImages/MEDIUM/1/19585_120930_136992.jpg",
+          "cost": 900
+        },
+        {
+          "id": "3",
+          "img": "https://imagescdn.simons.ca/images/7023/202225/69/A1_2.jpg?__=6",
+          "cost": 1000
+        },
+        {
+          "id": "4",
+          "img": "https://www.fabindia.com/ccstore/v1/images/?source=/file/v323428240987148239/products/10633396BK.f.311019.jpg",
+          "cost": 1200
+        },
+        {
+          "id": "5",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/07/31/1596166801dd8d3fc6c80f62eeeb691fdf0bd906b1_thumbnail_900x.webp",
+          "cost": "1299"
+        },
+        {
+          "id": "6",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/06/1596678110e1b43f80fc61350a47df9f9d14cdaa3b_thumbnail_900x.webp",
+          "cost": "1199"
+        },
+        {
+          "id": "7",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/10/1597046146e7a0bd539f4cede8bd902925d962f76b_thumbnail_405x552.webp",
+          "cost": "1099"
+        },
+        {
+          "id": "8",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/24/159823048466396bae97c75c2081ba156aabc9a389_thumbnail_900x.webp",
+          "cost": "1399"
+        },
+        {
+          "id": "9",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7139512/2018/9/21/52ac3343-f859-4ac7-92f1-3d2451fe92951537510763979-Roadster-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1421537510763791-1.jpg",
+          "cost": "300"
+        },
+        {
+          "id": "10",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8375987/2019/2/22/1e7669b5-ce31-426d-8378-2051d723f1231550830927269-Campus-Sutra-Men-Blue-Slim-Fit-Mid-Rise-Mildly-Distressed-St-1.jpg",
+          "cost": "600"
+        },
+        {
+          "id": "11",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10046883/2019/11/21/1ab261c2-dbf9-43bd-9351-0375bec4a3c41574321453635-Roadster-Men-Jeans-3271574321451223-1.jpg",
+          "cost": "400"
+        }
+      ],
+      "Shorts": [
+        {
+          "id": "1",
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81gSagCjsNL._AC_UY741_.jpg",
+          "cost": 1000
+        },
+        {
+          "id": "2",
+          "img": "https://dynamic.zacdn.com/X9EaunX-6xdnJmlyWcqKTFqBB2I=/fit-in/346x500/filters:quality(95):fill(ffffff)/http://static.sg.zalora.net/p/mango-kids-4734-6470231-1.jpg",
+          "cost": 1200
+        },
+        {
+          "id": "3",
+          "img": "https://rfis.freetls.fastly.net/public/content/4764407?w=480&h=600&q=85",
+          "cost": 1100
+        },
+        {
+          "id": "4",
+          "img": "https://anninc.scene7.com/is/image/LO/528204_0160?$pdp2x$",
+          "cost": 1300
+        },
+        {
+          "id": "5",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/01/13/157889609375dfbf9b316aea157c252376f6d772c0_thumbnail_900x.webp",
+          "cost": 1200
+        },
+        {
+          "id": "6",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/09/09/15996271503d72290645a79a36d006be1d554b3a0b_thumbnail_900x.webp",
+          "cost": 1399
+        },
+        {
+          "id": "7",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/28/1598597374e96be8591e6b5c90f9c4989196412694_thumbnail_900x.webp",
+          "cost": 1199
+        },
+        {
+          "id": "8",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/06/1596682749d46ad880b9523ab43cb3a0544380f0f3_thumbnail_900x.webp ",
+          "cost": 1200
+        }
+      ]
+    },
+    {
+      "title": "Watches",
+      "link": "https://www.cityam.com/assets/uploads/content/2016/03/royg-collection-prcmyk-56d6fae4888ab.jpg",
+      "array": [
+        "Fossil",
+        "Fastrack",
+        "Rolex"
+      ],
+      "Fossil": [
+        {
+          "id": 4,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/9/29/c5b25aed-e61b-4f18-97bb-b8c4b1747cbb1569717916955-1.jpg",
+          "cost": "400"
+        },
+        {
+          "id": 5,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8649639/2019/2/26/c6838697-4736-4fe4-932c-f52aa61f35f31551152585711-Fossil-Men-Black-Analogue-Factory-Serviced-Watch-FS4813IE-54-1.jpg",
+          "cost": "300"
+        },
+        {
+          "id": 6,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6972913/2019/11/23/fae4404a-2bde-4fff-b35c-0eff230b2ee91574491592624-Fossil-Women-Brown-Analogue-Watch-ES2795_OR-8161574491591055-1.jpg",
+          "cost": "350"
+        },
+        {
+          "id": 7,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2018/9/19/efc3f4c6-9a6b-44ad-a0bd-cc2570fdeee41537344743949-1.jpg",
+          "cost": "250"
+        },
+        {
+          "id": 8,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8649639/2019/2/26/c6838697-4736-4fe4-932c-f52aa61f35f31551152585711-Fossil-Men-Black-Analogue-Factory-Serviced-Watch-FS4813IE-54-1.jpg",
+          "cost": "200"
+        },
+        {
+          "id": 9,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2111141/2020/3/11/f9fe53fd-ad11-4fbc-a279-6151fec34ad21583926229788FossilTAILORWomenGoldAnalogueWatchES42642.jpg",
+          "cost": "500"
+        },
+        {
+          "id": 1,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9037489/2019/3/28/57d5f4d8-ac3c-4783-93d5-3f7110d5505b1553774914260-Fossil-Men-Watches-9661553774913372-1.jpg",
+          "cost": "100"
+        },
+        {
+          "id": 2,
+          "img": "https://5.imimg.com/data5/FA/HD/MY-423104/fossil-watch-500x500.png",
+          "cost": "200"
+        },
+        {
+          "id": 3,
+          "img": "https://5.imimg.com/data5/CW/ZN/VV/ANDROID-90124246/product-jpeg-500x500.jpg",
+          "cost": "150"
+        }
+      ],
+      "Fastrack": [
+        {
+          "id": 1,
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81DAwFaNrXL._UL1500_.jpg",
+          "cost": "100"
+        },
+        {
+          "id": 2,
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81mZmcdrg4L._UL1500_.jpg",
+          "cost": "80"
+        },
+        {
+          "id": 3,
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81l02sUbOML._UL1500_.jpg",
+          "cost": "70"
+        },
+        {
+          "id": 4,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11433084/2020/2/4/57aa3930-0e2d-4960-a582-c603cef1481c1580813904141-Fastrack-Women-Black-Analogue-Watch-NL6078SM04_OR-1891580813-1.jpg",
+          "cost": "100"
+        },
+        {
+          "id": 5,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4893057/2018/5/30/3abb2bc2-f4cf-4129-b46d-ffcf4f3eaa6a1527656145425-Fastrack-Men-Black-Analogue-Watch-6901527656144015-1.jpg",
+          "cost": "80"
+        },
+        {
+          "id": 6,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1192020/2016/2/3/11454487979715-Fastrack-Women-Watches-1401454487979681-1.jpg",
+          "cost": "60"
+        },
+        {
+          "id": 7,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11795696/2020/4/16/f5a11c0e-cd44-48a3-99a8-7eecf3a786b41586977135363WatchesTitanMenWatchesTitanWomenWatchesTitanMenWatchesZoopMe1.jpg",
+          "cost": "50"
+        },
+        {
+          "id": 8,
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11795696/2020/4/16/f5a11c0e-cd44-48a3-99a8-7eecf3a786b41586977135363WatchesTitanMenWatchesTitanWomenWatchesTitanMenWatchesZoopMe1.jpg",
+          "cost": "120"
+        }
+      ],
+      "Rolex": [
+        {
+          "id": 1,
+          "img": "https://fratellowatches.imgix.net/2019/04/Rolex-Submariner-2.jpg?auto=compress,format&fit=crop&w=1800&h=1200&crop=edges,focalpoint&dpr=1",
+          "cost": "600"
+        },
+        {
+          "id": 2,
+          "img": "http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/2023751/rolex_c_daytona_rose_zoom.jpg__760x0_q75_crop-scale_subsampling-2_upscale-false.jpg",
+          "cost": "800"
+        },
+        {
+          "id": 3,
+          "img": "https://voyerra.com/1999-thickbox_default/rolex-watches-for-mens.jpg",
+          "cost": "700"
+        }
+      ]
+    },
+    {
+      "title": "Accessories",
+      "link": "https://i0.wp.com/www.khattemeethedesires.com/wp-content/uploads/fashion-accessories-1.jpg?fit=500%2C334&ssl=1",
+      "array": [
+        "Jewelry",
+        "Sunglasses",
+        "Caps",
+        "Handbags"
+      ],
+      "Caps": [
+        {
+          "id": "1",
+          "img": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 699
+        },
+        {
+          "id": "2",
+          "img": "https://images.unsplash.com/photo-1490631537525-3b00d26805f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 399
+        },
+        {
+          "id": "3",
+          "img": "https://images.unsplash.com/photo-1587859165182-9afc12e90257?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 569
+        },
+        {
+          "id": "4",
+          "img": "https://images.unsplash.com/photo-1528429655970-21f7fbe1edd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 999
+        },
+        {
+          "id": "5",
+          "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/1/15/0acb9e59-af39-4f83-b7db-8628710a761e1579041631020-1.jpg",
+          "cost": 600
+        },
+        {
+          "id": "6",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/05/159660225836f4cfaa676191f2167fbe026cade52c_thumbnail_900x.webp",
+          "cost": 599
+        },
+        {
+          "id": "7",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/07/15/159478355357c58e250e96a3e0e9c73ccd29f79ab1.webp",
+          "cost": 699
+        },
+        {
+          "id": "8",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9203013/2019/11/8/384f5582-6a72-4af4-bcd6-9a08751fed161573200707080-ADIDAS-Unisex-Caps-4001573200706651-1.jpg",
+          "cost": 600
+        }
+      ],
+      "Jewelry": [
+        {
+          "id": "1",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMVu57n1uQA1hBfQHmY8fZsCOI7QFypX-4szZF6_cZL0SRfRcbD06m710PxuGhWwH57n-0eJHC&usqp=CAc",
+          "cost": 300
+        },
+        {
+          "id": "2",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR84GXbqrS833Uh7oEHKUgpvHfliep-wdZcXFOxeKRyUnIY75QPdZPYffSbpw&usqp=CAc",
+          "cost": 400
+        },
+        {
+          "id": "3",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4zDKp7AI-NiRBmNuCAx5sCGOPN3fe9C-glNgLF-xhVqqCNFFdyLf094lQoZ6-r4vw6mBIb1Y&usqp=CAc",
+          "cost": 450
+        },
+        {
+          "id": "4",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM-KcDKvtKckH8zW3JbebmkaDUbpQNfSniqRt3_5BqyPaXv8o2aGRT-hBjxHxMbY7YN4PZsAE&usqp=CAc",
+          "cost": 450
+        },
+        {
+          "id": "5",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/07/159677913279b490ff18ee84415a08f940464e7891_thumbnail_900x.webp",
+          "cost": 500
+        },
+        {
+          "id": "6",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/09/03/1599112493fc7f44538ed1eda2b4ef6a5900a52a4c_thumbnail_900x.webp",
+          "cost": 599
+        },
+        {
+          "id": "7",
+          "img": "https://res.cloudinary.com/blingvine1/image/fetch/c_scale,f_auto,q_auto,w_400/https://cdn.shopify.com/s/files/1/1223/0734/products/AGG00279_500x.jpg?v=1600082386",
+          "cost": 699
+        },
+        {
+          "id": "8",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/18/15977197970fed58abf5b36913103e35b60c5e7c2e_thumbnail_405x552.webp",
+          "cost": 700
+        }
+      ],
+      "Sunglasses": [
+        {
+          "id": "1",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8ykAFtsxvW6_BVJOkCJ1yqCI_PxC7s4rgXA&usqp=CAU",
+          "cost": 2500
+        },
+        {
+          "id": "2",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmRTTzyO38P6ls36g5lsm7cSWkElD8UGoOpA&usqp=CAU",
+          "cost": 2800
+        },
+        {
+          "id": "3",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2385230/2018/4/27/11524824561809-WROGN-Unisex-Browline-Mirrored-Sunglasses-MFB-PN-CY-51458-2201524824561642-1.jpg",
+          "cost": 3000
+        },
+        {
+          "id": "4",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAJa3jipq6aVYmqgRnNDBijdXByomZjpOw6w&usqp=CAU",
+          "cost": 3300
+        },
+        {
+          "id": "5",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/08/11/1597137418cb776b36f3e778c8dc64a280f17b497c_thumbnail_405x552.webp",
+          "cost": 1200
+        },
+        {
+          "id": "6",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/09/03/159911036517b7d1e050649e53fbdb557e6c06376e_thumbnail_405x552.webp",
+          "cost": 1399
+        },
+        {
+          "id": "7",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/07/28/1595915287b921d066eeac9bfd395dd27d16d8935e_thumbnail_405x552.webp",
+          "cost": 1199
+        },
+        {
+          "id": "8",
+          "img": "https://img.ltwebstatic.com/images3_pi/2020/05/22/159011549157aec755fd39a35be8d3f9e4f05d1fa5_thumbnail_900x.webp",
+          "cost": 1200
+        }
+      ],
+      "Handbags": [
+        {
+          "id": "1",
+          "img": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 1099
+        },
+        {
+          "id": "2",
+          "img": "https://images.unsplash.com/photo-1596552639068-99bd471b579c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 3599
+        },
+        {
+          "id": "3",
+          "img": "https://images.unsplash.com/photo-1546087760-2753fd6fc7b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 6555
+        },
+        {
+          "id": "4",
+          "img": "https://images.unsplash.com/photo-1559563458-527698bf5295?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "cost": 5997
+        },
+        {
+          "id": "5",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11841732/2020/6/2/594df1b9-15af-482b-8868-c99e29ad9fe61591117216038WalletsMANGOWomenHandbagsMANGOWomenBeltsMANGOWomenHeelsMANGO1.jpg",
+          "cost": 1200
+        },
+        {
+          "id": "6",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1629743/2017/1/18/11484729049334-Mast--Harbour-Green-Sling-Bag-5151484729049125-1.jpg",
+          "cost": 1399
+        },
+        {
+          "id": "7",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12082656/2020/7/13/52116bbe-1dd7-46f8-b6ea-ff58a11cbe931594642926628Softshoulderbag1.jpg",
+          "cost": 1199
+        },
+        {
+          "id": "8",
+          "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1375484/2017/4/20/11492672502387-Mast--Harbour-Teal-Green-Backpack-cum-Sling-Bag-9021492672501875-2.jpg",
+          "cost": 1200
+        }
+      ]
+    },
+    {
+      "title": "Footwear",
+      "link": "https://medias.fashionnetwork.com/image/upload/c_limit,f_auto,h_963,q_auto:best,w_963/v1/medias/e8b182f214ac41dde7c0e78b1b7364413219925.jpg",
+      "array": [
+        "Nike",
+        "Rebok",
+        "Puma"
+      ],
+      "Nike": [
+        {
+          "id": 1,
+          "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6530ad18-621c-43ab-9f60-96c685bc693b/air-zoom-tempo-next-running-shoe-chNfdw.jpg",
+          "cost": "80"
+        },
+        {
+          "id": 2,
+          "img": "https://assets.ajio.com/medias/sys_master/root/20200923/6k7M/5f6a4bc7f997dd8c8349cc75/-1117Wx1400H-460624587-blue-MODEL.jpg",
+          "cost": "100"
+        },
+        {
+          "id": 3,
+          "img": "https://stockx-360.imgix.net//Nike-Air-Force-1-Low-Off-White-Black-White/Images/Nike-Air-Force-1-Low-Off-White-Black-White/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1546755764&w=400",
+          "cost": "120"
+        }
+      ],
+      "Rebok": [
+        {
+          "id": 1,
+          "img": "https://assets.ajio.com/medias/sys_master/root/hc5/hd1/13885910450206/-473Wx593H-460356023-black-MODEL.jpg",
+          "cost": "200"
+        },
+        {
+          "id": 2,
+          "img": "https://images.dsw.com/is/image/DSWShoes/390751_000_ss_01?$pdp-image-mobile$",
+          "cost": "280"
+        },
+        {
+          "id": 3,
+          "img": "https://images.dsw.com/is/image/DSWShoes/466084_000_ss_01?$pdp-image-mobile$",
+          "cost": "180"
+        }
+      ],
+      "Puma": [
+        {
+          "id": 1,
+          "img": "https://s-media-cache-ak0.pinimg.com/originals/a7/50/2d/a7502d63d53749ed708262492dfddd95.jpg",
+          "cost": "100"
+        },
+        {
+          "id": 2,
+          "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1500,h_1500/global/194122/05/sv01/fnd/IND/fmt/png/Optic-Pax-LQDCELL-Training-Shoes",
+          "cost": "140"
+        },
+        {
+          "id": 3,
+          "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1500,h_1500/global/363699/15/sv01/fnd/IND/fmt/png/PUMA-Dare-Sneakers",
+          "cost": "180"
+        }
+      ]
+    }
+  ]
+}
