@@ -16,12 +16,9 @@
 #bootstrap
 #styledComponents
 
-#demo
+# Demo
  <a
-                class="card-link text-muted"
-                href="https://github.com/gouthamikr/gouthamikr.github.io/blob/master/demos/cart.mp4?raw=true"
-                target="__blank"
-                ><i class="fa fa-external-link"></i>&nbsp;<strong
-                  >Demo</strong
-                ></a
-              >
+   href="https://github.com/gouthamikr/gouthamikr.github.io/blob/master/demos/cart.mp4?raw=true"
+ >
+  <strong>click here</strong>
+ </a>
