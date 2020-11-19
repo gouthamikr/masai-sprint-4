@@ -7,14 +7,14 @@
 # Used
 
 #REACTJS <br/>
-#REACT-ROUTING
-#REACT-BOOTSTRAP
-#html
-#CSS
-#contextApi
-#jsonServer
-#bootstrap
-#styledComponents
+#REACT-ROUTING <br/>
+#REACT-BOOTSTRAP <br/>
+#html <br/>
+#CSS <br/>
+#contextApi <br/>
+#jsonServer <br/>
+#bootstrap <br/>
+#styledComponents 
 
 # Demo
  <a
